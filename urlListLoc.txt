@@ -1,0 +1,4 @@
+Url List Location:
+/home/wh/Spider/task1
+/home/wh/Spider/task2
+/home/wh/Spider/task3
